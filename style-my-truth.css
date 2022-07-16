@@ -1,0 +1,161 @@
+body {
+    color: white;
+    size: 25px;
+    text-align: center;
+}
+
+.row {
+    width: 100%;
+    height: 3cm;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-bottom: 15px;
+    text-align: center
+}
+
+.part1 {
+    background: orange;
+    height: 1cm;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part1 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.part2 {
+    background: blue;
+    height: 3cm;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part2 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.part3 {
+    background: rgb(87, 3, 3);
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part3 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.part4 {
+    background: pink;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part4 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.part5 {
+    background: purple;
+    height: 1cm;
+    text-align: center;
+    align-items: flex-end;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part5 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.row1 {
+    width: 100%;
+    height: 3cm;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+    text-emphasis-color: white;
+}
+
+.part6 {
+    background: black;
+    height: 2cm;
+    width: 6cm;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part6 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.part7 {
+    background: black;
+    height: 2cm;
+    width: 6cm;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part7 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.part8 {
+    background: black;
+    height: 2cm;
+    width: 6cm;
+    justify-content: center;
+    align-items: center;
+}
+
+div.part8 p {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}

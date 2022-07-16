@@ -1,0 +1,11 @@
+.target {
+    background: steelblue color: #ffb125 border-top: 5px solid red border-left: 10px dotted yellow border-bottom: 15px dashed purple border-right: 20px double green
+}
+
+#point {
+    backround: silver color: red
+}
+
+img {
+    width: 15cm display: block
+}

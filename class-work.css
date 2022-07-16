@@ -1,0 +1,41 @@
+.description {
+    line-height: 1.5;
+    text-align: left;
+}
+
+.history_picture_block {
+    width: 30%;
+    border: 1px solid grey;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.336);
+    float: left;
+    margin: 0px 15px 15px 15px;
+}
+
+.history_picture {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.history {
+    line-height: 1.5;
+}
+
+.definitions_picture_block {
+    width: 30%;
+    border: 1px solid grey;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.336);
+    float: right;
+    margin: 15px 15px 15px 15px;
+}
+
+.definitions_picture {
+    border: 1px solid grey;
+    padding: 5px;
+    background-color: white;
+}
+
+.definitions {
+    line-height: 1.5;
+}
